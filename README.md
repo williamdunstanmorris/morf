@@ -16,11 +16,11 @@ go get github.com/williamdunstanmorris/Morf
 
 ### Git Workflow
 
-### Docker
+### Continuous Integration 
 
-This repository is linked to the [![Docker](https://godoc.org/github.com/williamdunstanmorris/Morf?status.svg)]
+### Docker [![docker build](https://img.shields.io/docker/automated/williamdunstanmorris/morf.svg)](https://hub.docker.com/r/williamdunstanmorris/morf)
 
-## Contributors [![docker build](https://img.shields.io/docker/automated/williamdunstanmorris/morf.svg)](https://hub.docker.com/r/williamdunstanmorris/morf)
+## Contributors
 
 ToDo.
 
