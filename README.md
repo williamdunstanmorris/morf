@@ -16,7 +16,12 @@ go get github.com/williamdunstanmorris/Morf
 
 ### Git Workflow
 
-### Continuous Integration 
+### Docker + Jenkins (Environments and CI/CD w AWS)
+
+Many organizations use Docker to unify their build and test environments across machines, and to provide an efficient mechanism for deploying applications. Starting with Pipeline versions 2.5 and higher, Pipeline has built-in support for interacting with Docker from within a Jenkinsfile.
+
+
+
 
 ### Docker [![docker build](https://img.shields.io/docker/automated/williamdunstanmorris/morf.svg)](https://hub.docker.com/r/williamdunstanmorris/morf)
 
